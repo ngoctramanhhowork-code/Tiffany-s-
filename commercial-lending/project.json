@@ -1,0 +1,14 @@
+{
+  "title": "Commercial Lending Portfolio Analysis",
+  "description": "2,689 facilities and $302.23M financed; separated active pipeline from resolved conversion and identified recent Texas exception risk.",
+  "tools": [
+    "Power BI",
+    "Power Query",
+    "DAX"
+  ],
+  "categories": [
+    "Power BI"
+  ],
+  "date": "11/2026",
+  "cover": "cover.jpg"
+}
