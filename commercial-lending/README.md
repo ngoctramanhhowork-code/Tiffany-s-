@@ -7,6 +7,7 @@ The headline settlement rate is **73.8%**, but this understates completed conver
 <p align="center">
   <img src="screenshots/capital-deployment.png" width="850" alt="Portfolio and Capital Deployment dashboard">
 </p>
+
 ## Table of Contents
 
 - [Problem Statement](#problem-statement)
