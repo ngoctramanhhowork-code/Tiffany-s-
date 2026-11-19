@@ -4,8 +4,9 @@ A Power BI portfolio review of **2,689 commercial lending facilities representin
 
 The headline settlement rate is **73.8%**, but this understates completed conversion: **21.3% of financed value remains in the open pipeline**, while the **resolved settlement rate is 94.7%**.
 
-\<p align="center">   \<img src="screenshots/capital-deployment.png" width="850" alt="Portfolio and Capital Deployment dashboard"> \</p>
-
+<p align="center">
+  <img src="screenshots/capital-deployment.png" width="850" alt="Portfolio and Capital Deployment dashboard">
+</p>
 ## Table of Contents
 
 - [Problem Statement](#problem-statement)
@@ -121,9 +122,9 @@ The analysis uses the following definitions:
 
 ### Risk & Concentration
 
-\<p align="center">
-&#x20; \<img src="screenshots/risk-concentration.png" width="850" alt="Risk and Concentration dashboard">
-\</p>
+<p align="center">
+  <img src="screenshots/risk-concentration.png" width="850" alt="Risk and Concentration dashboard">
+</p>
 
 - **Texas is not a broad conversion problem.** Its headline settlement rate is weaker than the rest of the portfolio, but the difference narrows materially once unresolved applications are removed.
 - **Recent Texas vintages provide a stronger risk signal.** Texas contracts from 2021–22 record an exception rate of approximately **10.9%**, compared with **5.7% for Florida**.
@@ -131,7 +132,9 @@ The analysis uses the following definitions:
 
 ### Pipeline
 
-\<p align="center">   \<img src="screenshots/open-pipeline.png" width="750" alt="Open pipeline by stage and unsettled status"> \</p>
+<p align="center">
+  <img src="screenshots/open-pipeline.png" width="750" alt="Open pipeline by stage and unsettled status">
+</p>
 
 Most unsettled facilities remain active rather than withdrawn. The largest open balance sits at **Doc Prep**, with further material value already at Final Review and Settlement.
 
@@ -139,9 +142,9 @@ The data does not include application age or time-in-stage, so the current model
 
 ### Exceptions
 
-\<p align="center">
-&#x20; \<img src="screenshots/exception-by-product.png" width="750" alt="Exception exposure by product">
-\</p>
+<p align="center">
+  <img src="screenshots/exception-by-product.png" width="750" alt="Exception exposure by product">
+</p>
 
 There are **143 exposure exceptions**, representing approximately **$884K in excess above original financing**.
 
@@ -155,9 +158,9 @@ This indicates that exception **rate and denominator size** are more useful than
 
 Recent Texas vintages reinforce the same point:
 
-\<p align="center">
-&#x20; \<img src="screenshots/texas-florida-exception-rate.png" width="700" alt="Texas versus Florida exception rate by contract year">
-\</p>
+<p align="center">
+  <img src="screenshots/texas-florida-exception.png" width="700" alt="Texas versus Florida exception rate by contract year">
+</p>
 
 Texas exception rates rise materially in 2021–22, while Florida remains comparatively stable.
 
